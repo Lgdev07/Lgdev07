@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
-  <img src="https://media1.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e477lk2gd3scyxiqlmalkgjbawrn138dnc8arsr0i4p&rid=giphy.gif" style="border-radius:10px;" width="350" />
+  <img src="https://github.com/Lgdev07/Lgdev07/blob/master/preview.gif" width="350" />
 </p>
