@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/Lgdev07/Lgdev07/blob/master/preview.gif" width="350" />
+  <img src="https://github.com/Lgdev07/Lgdev07/blob/master/preview.gif" style="border-radius:10px;" width="350" />
 </p>
