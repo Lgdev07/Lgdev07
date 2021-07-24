@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://dev.to/lgdev07">Luan</a>.<br> I'm a Software Developer from São Paulo.<br><br>#python, #golang, #javascript, #docker</samp>
+  <samp>Hello there. I'm <a href="https://dev.to/lgdev07">Luan</a>.<br> I'm a Software Developer from São Paulo, Brazil.<br></samp>
   <br>
   <br>
   <br>
